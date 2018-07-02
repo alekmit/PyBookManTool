@@ -113,6 +113,12 @@ genres_types = {
     'sf_horror': 'Horror',
     'sf_humor': 'Science Fiction',
     'sf_fantasy': 'Fantasy',
+    'sf_stimpank', 'Steam Punk',
+    'romance_sf': 'Science Fiction',
+    'foreign_sf': 'Science Fiction',
+    'economics': 'Economics',
+    'economics_ref': 'Economics',
+    'sf_etc': 'Science Fiction',
     'sf': 'Science Fiction',
     'det_classic': 'Detective',
     'det_police': 'Detective',
@@ -133,6 +139,7 @@ genres_types = {
     'prose_counter': 'Prose',
     'prose_rus_classic': 'Prose',
     'prose_su_classics': 'Prose',
+    'foreign_prose': 'Prose',
     'love': 'Love',
     'love_contemporary': 'Love',
     'love_history': 'Love',
@@ -161,6 +168,7 @@ genres_types = {
     'antique_east': 'Antique',
     'antique_myths': 'Antique',
     'antique': 'Antique',
+    'sci_cosmos', 'Astronomy'
     'sci_history': 'History',
     'sci_psychology': 'Psychology',
     'sci_culture': 'Culture',
@@ -177,6 +185,7 @@ genres_types = {
     'sci_tech': 'Tech',
     'sci_transport': 'Tech',
     'sci_radio': 'Radio',
+    'sci_geo': 'Geo'
     'science': 'Science',
     'comp_www': 'IT',
     'comp_programming': 'Programming',
@@ -187,7 +196,7 @@ genres_types = {
     'computers': 'IT',
     'ref_encyc': 'Reference',
     'ref_dict': 'Reference',
-    'uref_ref': 'Reference',
+    'ref_ref': 'Reference',
     'ref_guide': 'Reference',
     'reference': 'Reference',
     'nonf_biography': 'Biography',
@@ -199,6 +208,7 @@ genres_types = {
     'religion': 'Religion',
     'religion_rel': 'Religion',
     'religion_esoterics': 'Religion',
+    'religion_catholicism': 'Religion',
     'religion_self': 'Religion',
     'sci_religion': 'Religion',
     'humor_anecdote': 'Humor',
@@ -214,7 +224,11 @@ genres_types = {
     'home_diy': 'Home',
     'home_sport': 'Home',
     'home_sex': 'Home',
-    'home': 'Home'
+    'home': 'Home',
+    'military_special': 'Military',
+    'military_weapon': 'Military',
+    'literature_20': 'Misc',
+    'foreign_edu': 'Education'
 }
 
 
